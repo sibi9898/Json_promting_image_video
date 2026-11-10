@@ -1,0 +1,55 @@
+
+{
+  "duration": "5 seconds",
+  "format": "16:9",
+  "S": {
+    "Subject": "A majestic Chola king from ancient Tamil Nadu, wearing a golden royal crown, traditional red and gold silk attire, intricate gold jewelry and ornaments. Surrounded by royal warriors, Tamil scholars, traditional musicians and Bharatanatyam dancers. Authentic historical Tamil civilization and cultural heritage."
+  },
+  "C": {
+    "Composition": "Cinematic medium close-up shot focusing on the Chola king in the foreground. His face, crown, jewelry and royal clothing are sharply detailed. Warriors stand behind him while scholars and traditional performers appear in the background. The magnificent Brihadeeswarar Temple is visible in the distance. Maintain realistic proportions, shallow depth of field and cinematic framing."
+  },
+  "A": {
+    "Action": "The Chola king slowly turns his head and looks proudly towards the temple. His royal silk clothing moves gently in the morning breeze. Warriors stand confidently beside him. A Bharatanatyam dancer performs a graceful hand gesture in the background. Scholars carefully read palm-leaf manuscripts while traditional musicians play their instruments. All movements are natural, smooth and historically inspired."
+  },
+  "L": {
+    "Location": "Ancient Thanjavur, Tamil Nadu, South India. A magnificent Chola royal courtyard surrounded by traditional stone architecture, intricately carved temple pillars and the historic Brihadeeswarar Temple."
+  },
+  "E": {
+    "Aesthetic": "Ultra-realistic historical cinematic video, mid-morning sunlight between 9 AM and 11 AM, warm golden daylight, realistic skin textures, intricate gold jewelry, authentic Tamil silk costumes, detailed stone carvings, natural shadows, atmospheric depth, rich earthy colors, cinematic color grading, professional film production quality, 4K resolution, HDR."
+  },
+  "Camera": {
+    "Shot_Type": "Medium close-up",
+    "Movement": "Slow cinematic dolly-in towards the Chola king",
+    "Lens": "85mm portrait lens",
+    "Focus": "King's face and royal ornaments",
+    "Depth_of_Field": "Shallow depth of field",
+    "Stabilization": "Smooth cinematic camera movement"
+  },
+  "Lighting": {
+    "Time": "Mid-morning",
+    "Source": "Natural sunlight",
+    "Effect": "Soft golden highlights and realistic shadows"
+  },
+  "Timeline": {
+    "0-2_seconds": "Establish the Chola king in the royal courtyard. Camera slowly moves closer.",
+    "2-4_seconds": "The king turns his head slightly towards the temple. His royal clothing moves gently in the breeze.",
+    "4-5_seconds": "Camera captures a detailed close-up of the king's face, golden crown and jewelry while the temple remains softly visible in the background."
+  },
+  "Negative_Prompt": [
+    "Modern buildings",
+    "Modern clothing",
+    "Electric lights",
+    "Cars and motorcycles",
+    "Science fiction elements",
+    "Cartoon appearance",
+    "Unrealistic facial expressions",
+    "Distorted hands",
+    "Extra fingers",
+    "Blurry faces",
+    "Camera shaking",
+    "Sudden scene transitions",
+    "Artificial movements",
+    "Text overlays",
+    "Watermarks"
+  ]
+}
